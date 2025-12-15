@@ -1,4 +1,4 @@
-# Analisador-De-Carros-com-IA
+# Projeto de Detecção de Fraudes em Imagens Automotivas
 
 
 
